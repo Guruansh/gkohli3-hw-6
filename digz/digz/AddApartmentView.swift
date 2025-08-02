@@ -1,3 +1,9 @@
+//
+//  digzApp.swift
+//  digz
+//
+//  Created by Guruansh  Kohli  on 8/2/25.
+//
 import SwiftUI
 import SwiftData
 import CoreLocation
